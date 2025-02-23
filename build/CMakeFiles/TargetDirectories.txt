@@ -1,0 +1,3 @@
+C:/Users/timet/Desktop/projects/task_GUI/build/CMakeFiles/task-GUI.dir
+C:/Users/timet/Desktop/projects/task_GUI/build/CMakeFiles/edit_cache.dir
+C:/Users/timet/Desktop/projects/task_GUI/build/CMakeFiles/rebuild_cache.dir

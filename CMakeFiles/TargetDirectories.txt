@@ -1,0 +1,2 @@
+C:/Users/timet/Desktop/projects/task_GUI/CMakeFiles/edit_cache.dir
+C:/Users/timet/Desktop/projects/task_GUI/CMakeFiles/rebuild_cache.dir

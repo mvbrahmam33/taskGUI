@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/timet/Desktop/projects/task_GUI/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/task-GUI.dir/includes_CXX.rsp -g -o CMakeFiles\\task-GUI.dir\\src\\main.cpp.obj -c C:\\Users\\timet\\Desktop\\projects\\task_GUI\\src\\main.cpp",
+  "file": "C:/Users/timet/Desktop/projects/task_GUI/src/main.cpp",
+  "output": "CMakeFiles/task-GUI.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/timet/Desktop/projects/task_GUI/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/task-GUI.dir/includes_CXX.rsp -g -o CMakeFiles\\task-GUI.dir\\src\\task_manager.cpp.obj -c C:\\Users\\timet\\Desktop\\projects\\task_GUI\\src\\task_manager.cpp",
+  "file": "C:/Users/timet/Desktop/projects/task_GUI/src/task_manager.cpp",
+  "output": "CMakeFiles/task-GUI.dir/src/task_manager.cpp.obj"
+}
+]
